@@ -7,7 +7,7 @@ import com.google.inject.name.Names;
 import model.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import processor.MainProcessor;
+import processor.impl.MainProcessor;
 import processor.Processor;
 import processor.impl.InstructionProcessor;
 import processor.impl.LandingProcessor;
