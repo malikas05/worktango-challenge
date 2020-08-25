@@ -3,7 +3,7 @@
 
 The task description can be found in <b>code-challenge_mars-rover.docx</b>.
 
-The application can be launched in a standalone mode by running JAR file with the following command in CMD: 
+The application can be launched in a standalone mode by running JAR file with the following command: 
 ```
 java -jar worktango-challenge-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
