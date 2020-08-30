@@ -7,5 +7,5 @@ The application can be launched in a standalone mode by running JAR file with th
 ```
 java -jar worktango-challenge-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
-<h4>Performance:</h4>
+<h4>Efficiency:</h4>
 Most operations run in O(N) time, however, some of them have been actually improved to O(1).
